@@ -1,23 +1,178 @@
-# vigdisj.github.io
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="AK_forsøk2.css" type="text/css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
     <title>Document</title>
-    <style>
-        </style>
+
+    <style type="text/css" >
+    
+ 
+
+    .header {text-align: center;
+    color: Black;
+    font-family: sans-serif;
+    background-image: url("https://media.istockphoto.com/vectors/herbs-and-spices-seamless-pattern-ginger-spinach-onion-pepper-garlic-vector-id1258733624");
+    background-size: cover;
+    padding: 50px;
+    width: 100%;
+    margin: auto;
+    margin-top: auto;
    
+  }
+
+
+.BAKGRUNN {position: above;
+      bottom: 0px;
+      text-align: center;
+      background-color: oldlace ;
+      padding: 10px;
+      background: rgba(249,240,235,0.8);
+    }
+
+.Overskrift {color:#393228;
+          font-size: 40px;
+          font-family: 'Gilda Display', serif;
+      }
+
+h2 {text-align: center;
+font-size: 55px;
+color: #393228;
+border-style: double;
+border-color: #394224;
+border-width: 10px;
+margin: 100px;
+align-items: center;
+}
+
+
+.ÅPNINGSTID {text-align: center;
+    font-family: 'lato', sans-serif;
+    color: #393228; 
+    font-size: 20px; }
+
+.åpningstid1 {font-style: italic;}
+
+.tider {font-family: 'lato', sans-serif;
+color: #393228;
+margin-right:auto;
+margin-left: auto;
+}
+
+
+
+hr {
+    color:rgb(117, 106, 90);
+    width:100%;
+    text-align:center;
+    margin-left: 100px;
+    display: block;
+    border-style: dashed;
+    border-width: 0.1px;
+  }
+  
+
+.LUNSJ {font-size: 40px;
+    color: #394224 ;
+    text-align: center;
+    font-family:'lato',sans-serif;
+    margin-left: 50px;
+   
+  }
+
+.MIDDAG {font-size: 40px;
+    color: #394224 ;
+    text-align: center;
+    font-family:'lato',sans-serif;
+    margin-left: 100px;
+  }
+    
+.SNACKS {font-size: 40px;
+    color: #394224;
+    text-align: center;
+    font-family:'lato',sans-serif;
+    margin-left: 100px
+  }
+
+dt {font-size: 28px;
+font-family:'lato',sans-serif;
+color:#394224;
+text-align: left;
+margin-left: 100px;
+
+}
+
+.undertekst {font-size: 20px;
+font-family:'lato',sans-serif;
+color: black;
+text-align: left;
+font-style: italic;
+margin-left: 100px;
+
+
+}
+
+dd {font-size: 18px;
+font-family:'lato',sans-serif;
+text-align: left;
+margin-left: 100px;
+font-style: italic;
+}
+
+
+footer {
+background-color: #393228;
+height: 250px;
+width: 100% ;
+margin-left: 100px;
+margin-right: 150px;
+
+}
+
+.KONTAKTINFORMASJON {text-align: center;
+                  color: #F9F0EB;
+                  font-size: 18px ;
+                  font-family:'lato',sans-serif;
+                  
+                  
+                }
+
+
+                
+a { color:#F9F0EB;}
+
+
+.p1, .p2, .p3 {  text-align: center;
+font-size: 18px;
+font-family:'lato',sans-serif;
+color: #F9F0EB;
+  }
+
+
+
+span {float: right;
+font-family: 'lato', sans-serif;
+  }
+
+div {float: center;
+    margin: 100px;
+    font-family: 'lato', sans-serif;
+  }
+
+
+h4{
+text-align: center;
+
+}
+
+body {background-color: #F9F0EB;
+
+
+}
+    </style>
+
 </head>
-
-
-
-
 <body>
  
     <div class ="header"> 
